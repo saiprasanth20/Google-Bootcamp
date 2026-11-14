@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere",
+  "description": "Location-aware social event discovery, pre-event attendee coordination, and post-event builder showcase platform powered by 3D Globe, Google Maps, and Gemini Search Grounding.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
